@@ -98,7 +98,7 @@ public class Hzipclient extends Thread {
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-我就是要修改
+            继续修改
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
